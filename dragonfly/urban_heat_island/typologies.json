@@ -1,0 +1,21 @@
+{
+  "typologies": [
+    {
+      "typology_name": "apparment",
+      "average_height": 25 ,
+      "footprint_area": 22922,
+      "facade_area": 105946,
+      "floor_to_floor": ,
+      "floor_area": 183329
+    },
+    {
+      "typology_name": "small retail",
+      "average_height": 32 ,
+      "footprint_area": 2256,
+      "facade_area": 9693,
+      "floor_to_floor": ,
+      "floor_area": 18046
+    }
+  ],
+  "terrain_area":63955
+}
